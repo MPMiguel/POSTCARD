@@ -1,3 +1,35 @@
+Para realizar este ejericicio he seguido los siguientes pasos:
+
+  -He creado 1 div principal con otros 3 divs en su interior que separan el header ,las dos columnas centrales y el footer.
+
+  -Dentro del header incluí un h1 con el titulo de la postcard con el logotipo de 4geeks
+  
+  -En el postcard body 2 divs diferentes uno para cada columna de contenido ,el primero con un parrafo y el segundo con 3 inputs
+
+  -Por ultimo el footer , en el que hice un boton
+
+  -En cada paso del proceso fui ajustando el aspecto y posicion del ejercicio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
